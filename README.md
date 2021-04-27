@@ -1,5 +1,5 @@
 ### Salutation !👋
-- 👨‍🎓J'étudie actuellement chez OpenClassroom en tant que développeur web,
+- 👨‍🎓 J'étudie actuellement chez OpenClassroom en tant que développeur web,
 - 🔭 Je travaille actuellement sur mon CV en ligne,
 - 🌱 J'apprends VueJs et VueX,
 - 📫 Comment me contacter : benjaminclairottepro@gmail.com,
