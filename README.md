@@ -1,5 +1,5 @@
 ### Salutation !👋
-
+- 👨‍🎓J'étudie actuellement chez OpenClassroom en tant que développeur web,
 - 🔭 Je travaille actuellement sur mon CV en ligne,
 - 🌱 J'apprends VueJs et VueX,
 - 📫 Comment me contacter : benjaminclairottepro@gmail.com,
@@ -18,7 +18,6 @@
 ![](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 ![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naitchi&layout=compact" />
