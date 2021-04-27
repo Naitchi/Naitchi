@@ -6,5 +6,3 @@ Here are some ideas to get you started:
 - 🌱 J'apprends VueJs et VueX,
 - 📫 Comment me contacter : benjaminclairottepro@gmail.com,
 - 😄 Pronouns: He/Him,
-- ⚡ Fun fact: ...
--->
