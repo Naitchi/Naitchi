@@ -1,7 +1,6 @@
 ### Salutation !👋
 - 👨‍🎓  J'étudie actuellement chez OpenClassroom en tant que développeur web,
 - 🔭 Je travaille actuellement sur mon CV en ligne,
-- 🌱 J'apprends VueJs et VueX,
 - 📫 Comment me contacter : benjaminclairottepro@gmail.com,
 - ♟  Fun Facts: j'aime bien joué aux échecs! Je n'ai pas un très haut niveau, mais n'hésiter pas si vous voulez faire une partie !
 
