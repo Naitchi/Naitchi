@@ -1,9 +1,7 @@
 ### Salutation !👋
-- 👨‍🎓  Je viens de finir ma formation de développeur web chez OpenClassrooms,
-- 🔭 Je recherche actuellement une alternance,
+- 👨‍🎓  Je viens de finir ma formation de développeur d'application web chez OpenClassrooms en plus de ma formation de développeur fullStack,
+- 🔭 Je recherche actuellement un CDI,
 - 📫 Comment me contacter : benjaminclairottepro@gmail.com,
-- ♟  Fun Facts: j'aime bien joué aux échecs! Je n'ai pas un très haut niveau, mais n'hésiter pas si vous voulez faire une partie !
-
 
 ### Languages and tools
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
