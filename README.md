@@ -32,4 +32,4 @@ Mon IDE :
 ✔ Curieux, rigoureux et motivé<br/>
 ✔ Expérimenté via de nombreux projets et 1 an et 1 mois d'expérience dans le monde du travail.<br/>
 
-Vous pouvez retrouver mon cv en ligne sur http://benjaminclairotte.fr
+Vous pouvez retrouver mon **Portfolio** en ligne sur http://benjaminclairotte.fr
