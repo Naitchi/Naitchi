@@ -2,7 +2,7 @@
 
 **`Développeur Web FullStack | Développeur d'application Web`**
 
-- 👨‍🎓  Je viens de finir ma deuxieme formation en alternance de développeur d'application web chez OpenClassrooms en plus de ma formation de développeur fullStack,
+- 👨‍🎓  J'ai fini ma deuxieme formation en alternance de développeur d'application web chez OpenClassrooms en plus de ma formation de développeur fullStack,
 - 🔭 Je recherche actuellement un CDI ou un CDD,
 - ⏲ Je suis disponible dès maintenant,
 - 📫 Comment me contacter : benjaminclairottepro@gmail.com ou via <a href="https://www.linkedin.com/in/benjamin-clairotte/">linkedin</a>,
@@ -30,6 +30,6 @@ Mon IDE :
 ✔ Un portefolio très rempli et qui ne compte pas s'arrêter<br/>
 ✔ Une envie d'apprendre débordante <br/>
 ✔ Curieux, rigoureux et motivé<br/>
-✔ Expérimenté via de nombreux projets et 1 an et 1 mois d'expérience dans le monde du travail.<br/>
+✔ Expérimenté via de nombreux projets et 2 an et 1 mois d'expérience dans le monde du travail.<br/>
 
 Vous pouvez retrouver mon **Portfolio** en ligne sur http://benjaminclairotte.fr
