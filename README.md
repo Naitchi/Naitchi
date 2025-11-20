@@ -3,6 +3,7 @@
 **`Développeur Web FullStack | Développeur d'application Web`**
 
 - 👨‍🎓  J'ai fini ma deuxieme formation en alternance de développeur d'application web chez OpenClassrooms en plus de ma formation de développeur fullStack,
+- *42* Actuellement en formation a 42 apres avoir reussi ma piscine, pour m'ouvrir sur plus de secteur!
 - 🔭 Je recherche actuellement un CDI ou un CDD,
 - ⏲ Je suis disponible dès maintenant,
 - 📫 Comment me contacter : benjaminclairottepro@gmail.com ou via <a href="https://www.linkedin.com/in/benjamin-clairotte/">linkedin</a>,
