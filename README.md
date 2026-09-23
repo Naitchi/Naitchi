@@ -4,7 +4,7 @@
 
 - 🎓 Étudiant a **42**, après avoir réussi la Piscine — je m'ouvre à de nouveaux secteurs et façons de coder
 - 💼 Déjà diplômé Développeur d'application web (Bac+4) et Développeur web fullstack (Bac+2, RNCP) chez OpenClassrooms
-- 🔭 Actuellement en recherche d'un **stage**, **alternance**, **CDD** ou **CDI**. Disponible dès maintenant
+- 🔭 Actuellement en recherche d'un **stage**, **alternance**, **CDD** ou **CDI**. Disponible dès Avril 2027
 - 📫 Pour me contacter : [benjaminclairottepro@gmail.com](mailto:benjaminclairottepro@gmail.com) ou sur [LinkedIn](https://www.linkedin.com/in/benjamin-clairotte/)
 - 🌐 Portfolio : [benjaminclairotte.fr](https://benjaminclairotte.fr)
 
